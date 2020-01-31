@@ -1,2 +1,1 @@
-# tilskot
-Diverse filer
+# Kart over administrative inndelingar i Noreg på kommmunenivå
